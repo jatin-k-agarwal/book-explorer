@@ -71,7 +71,9 @@ This will start the React development server, usually accessible at http://local
 Additional Notes
 
 Ensure MongoDB is running before starting the scraper or backend.
+
 The backend API is available at http://localhost:3000/api/books.
+
 Use the frontend UI to search, filter, and browse books.
 
 
