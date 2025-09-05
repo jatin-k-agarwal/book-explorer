@@ -1,11 +1,9 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-<<<<<<< HEAD
+
 require('dotenv').config(); 
-=======
-require('dotenv').config();
->>>>>>> b08d2827cca5bd72e66abe8e42c5051d61abdc66
+
 
 const booksRouter = require('./routes/books');
 
